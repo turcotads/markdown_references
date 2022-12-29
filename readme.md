@@ -23,3 +23,8 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
+## References
+[Criando Readme incríveis!](https://www.tuliocalil.com.br/post/untitled)
+[Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+[StackEdit](https://stackedit.io/app)
